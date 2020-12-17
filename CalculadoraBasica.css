@@ -1,0 +1,26 @@
+.button{
+	width:40px;
+	height:30px;
+	color:black;
+	background-color:white;
+}
+.calculadora{
+	box-sizing:border-box;
+	margin-left:100px;
+	margin-right:1070px;
+	color:white;
+	background-color:grey;
+}
+h2{
+	text-align:center;
+}
+h1{
+	color:#2376FF;
+	background-color:#AFE2E8;
+}
+input{
+	color:black;
+	background-color:white;
+	width:162px;
+	height:30px;
+}
